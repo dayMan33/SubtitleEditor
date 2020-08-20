@@ -1,0 +1,18 @@
+1
+00:00:16,100 --> 00:00:17,600
+Hi, my name is Daniel
+I am testing this program I built
+
+2
+00:00:18,600 --> 00:00:20,900
+Cool! what does it do?
+
+3
+00:00:21,600 --> 00:00:23,300
+It adjusts the time of the subtitles
+
+4
+00:00:23,600 --> 00:00:26,300
+Try it for yourself. Run subtitle_editor.py
+with your desired arguments, and see how it goes...
+

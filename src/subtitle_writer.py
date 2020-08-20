@@ -1,5 +1,5 @@
-from subtitle_sequence import SubtitleSequence
-from subtitle import Subtitle
+from src.subtitle_sequence import SubtitleSequence
+from src.subtitle import Subtitle
 from datetime import timedelta
 
 

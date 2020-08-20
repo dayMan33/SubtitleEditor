@@ -1,8 +1,8 @@
 import codecs
 from typing import List
 from datetime import timedelta
-from subtitle import Subtitle
-from subtitle_sequence import SubtitleSequence
+from src.subtitle import Subtitle
+from src.subtitle_sequence import SubtitleSequence
 
 
 class SubtitleParser(object):
