@@ -1,7 +1,6 @@
 import sys
-from subtitle_sequence import SubtitleSequence
-from subtitle_writer import SubtitleWriter
-from subtitle_parser import SubtitleParser
+from src.subtitle_writer import SubtitleWriter
+from src.subtitle_parser import SubtitleParser
 from datetime import timedelta
 import argparse
 
@@ -36,3 +35,4 @@ if __name__ == '__main__':
     if args.out_file == None:
         args.out_file = args.file
     SubtitleWriter.write_subtitle_sequence(sequence, args.out_file)
+    print(f'file {args.out_file} was created successfully')
