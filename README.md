@@ -24,18 +24,24 @@ download this project to your local machine, and run the followind line in the c
 
     SubtitleEditor>py subtitle_editor.py -file [-out_file] [-neg] [-h] [-min] [-sec] [-mil]
   
-the arguments are as follows: 
--file: absolute path to SRT file containing the subtitles you wish to shift.
--out_file (optional): absolute path to a file to save the shifted subtitles into.
--neg (optional): if specified, shift the subtitles backeards. otherwise they are shifted forward.
--h (optional): number of hours you wish to shift subtitles.
--min (optional): number of minutes you wish to shift subtitles.
--sec (optional): number of seconds you wish to shift subtitles.
--mil (optional): number of milliseconds you wish to shift subtitles.
+**The arguments are as follows:** 
+
+ -file: absolute path to SRT file containing the subtitles you wish to shift.
+ 
+ -out_file (optional): absolute path to a file to save the shifted subtitles into.
+
+ -neg (optional): if specified, shift the subtitles backeards. otherwise they are shifted forward.
+
+ -h (optional): number of hours you wish to shift subtitles.
+ 
+ -min (optional): number of minutes you wish to shift subtitles.
+ 
+ -sec (optional): number of seconds you wish to shift subtitles.
+ 
+ -mil (optional): number of milliseconds you wish to shift subtitles.
 
 
-<img src="static/usage.gif" width="500", height="350"/>
-
+<img src="static/usage.gif" width="700" height="500"/>
 
 support
 -------
