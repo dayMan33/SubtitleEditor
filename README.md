@@ -41,7 +41,7 @@ download this project to your local machine, and run the followind line in the c
  -mil (optional): number of milliseconds you wish to shift subtitles.
 
 
-<img src="static/usage.gif" width="700" height="500"/>
+<img src="static/usage.gif" width="800" height="200"/>
 
 support
 -------
